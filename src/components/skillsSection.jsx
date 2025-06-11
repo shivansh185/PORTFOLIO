@@ -13,6 +13,7 @@ const skills = [
   { title: "SQL", description: "Structured data management.", icon: "💾", experience: "Experience in relational databases and data normalization." },
   { title: "Java", description: "Object-oriented programming.", icon: "☕", experience: "Strong OOP concepts, multithreading, and design patterns." },
   { title: "Python", description: "Powerful and versatile language.", icon: "🐍", experience: "Used for AI/ML, automation, and scripting." },
+  { title: "Docker", description: "Containerization platform for deployment.", icon: "🐳", experience: "Used for building, shipping, and running containerized applications." },
 ];
 
 const techs = [
@@ -22,6 +23,7 @@ const techs = [
   { title: "GSAP", description: "Powerful JavaScript animation library.", icon: "🎬", experience: "Used for high-performance timeline-based UI animations." },
   { title: "Three.js", description: "3D JavaScript library for WebGL.", icon: "🌌", experience: "Built interactive 3D models and animations on the web." },
   { title: "shadcn/ui", description: "Beautifully designed UI components built with Radix UI.", icon: "🧩", experience: "Integrated accessible, themeable components in React apps." },
+  { title: "FFmpeg", description: "Cross-platform solution to record, convert, and stream audio and video.", icon: "🎞️", experience: "Used for real-time video streaming, recording, and RTMP server builds." },
 ];
 
 const SkillsSection = () => {
